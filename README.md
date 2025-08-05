@@ -2,7 +2,9 @@
 
 >css : linguagem da decoração da página
 
->java script : linguagem das funcionalidades da página 
+>java script : linguagem das funcionalidades da página
+
+> java script e css só existem se aplicadas dentro do html 
 
 ## aprenda a fazer comentários em java script , html e css na pasta comentários 
 
