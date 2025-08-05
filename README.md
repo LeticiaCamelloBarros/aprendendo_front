@@ -7,6 +7,6 @@
 ## aprenda a fazer comentários em java script , html e css na pasta comentários 
 
 ## aprenda a fazer a inserção do código css no código html 
-### jeito 1 : teste.html 
+### jeito 1 : css_em_html_direto
 ### jeito 2 : teste2.html e desafioc.css
 
