@@ -1,0 +1,12 @@
+<!--para comentar em HTML : "<!--->" 
+  serve para comentários multi e pluri lineares -->
+
+  //para comentar em java script use duas barras assim : "//"
+
+/*
+para fazer comentários multilineares em java script 
+basta começar com "/*" , escrever seu comentário e terminar com "*/"  
+*/   
+
+você pode fazer comentários multi e mono lineares em css da mesma forma que faz comentários multilineares em java script 
+
