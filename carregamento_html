@@ -1,0 +1,11 @@
+Carregamento Assíncrono e Deferido
+Para melhorar o desempenho do carregamento da página, você pode usar os atributos async ou defer na tag <script>.
+Async (Assíncrono)
+Carrega o script de forma assíncrona em paralelo com o parsing do HTML. O script é executado assim que é carregado.
+<script src="script.js" async></script>
+Defer (Adiado)
+Garante que o script será executado somente após a análise completa do documento HTML, mantendo a ordem dos scripts.
+<script src="script.js" defer></script>
+
+
+você deve colocar tanto Async quanto defer no código html 
