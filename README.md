@@ -12,4 +12,4 @@
 
 ## aprenda a fazer a inserção do código java script no código html 
 ###  fazendo apenas o documento html e o código java script fica dentro dele nas pastas : js_em_html_direto.html 
-### fazendo um doc html e outro java script e referenciando o doc java script no doc html nas pastas  
+### fazendo um doc html e outro java script e referenciando o doc java script no doc html nas pastas  : js_em_html_indireto.html e 
