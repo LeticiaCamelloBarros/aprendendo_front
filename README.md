@@ -15,3 +15,5 @@
 * fazendo um doc html e outro java script e referenciando o doc java script no doc html nas pastas  : js_em_html_indireto.html e js_em_html_indireto.html
 
 ## aprenda a otimizar o carregamento das suas páginas com aplicações java script na pasta : carregamento 
+
+## aprenda a fazer o carregamento correto dos script na pasta : Colocação Correta dos Scripts
