@@ -1,0 +1,27 @@
+<!-Para garantir que o HTML seja carregado antes da execução do JavaScript, é uma prática comum colocar a tag <script> no final do corpo do documento.-->
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Exemplo Colocação Correta</title>
+
+</head>
+
+<body>
+
+<button id="meuBotao">Clique aqui</button>
+
+<!-- Scripts no final do body 
+obs : script.js é outro arquivo no vs code que você deve cria-lo antes ou depois de cita-lo , mas a integração só vai funcionar se o arquivo existir 
+-->
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
