@@ -28,4 +28,5 @@
 ## aprenda a fazer o carregamento correto dos script na pasta : Colocação Correta dos Scripts
 
 ## aprenda a inserir argumentos na função console.log() em java script na pasta : 
+* java script console arguments
 * 
