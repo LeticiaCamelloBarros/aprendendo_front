@@ -1,0 +1,22 @@
+"""você pode concatenar strings em java script usando o sinal de + """
+
+  """ ao você unir strings por virgula por padrão ela colocará um espaço entre cada sub string : 
+código : 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script> 
+        console.log("eu"+"sou"+"linda")
+        console.log("eu","sou","linda")
+    </script>
+</body>
+</html>
+  
+  output : 
+  teste2.html:10 eusoulinda
+  teste2.html:11 eu sou linda
