@@ -1,0 +1,15 @@
+"""você pode inserir um ou mais argumentos na função console.log() ou apenas 1  """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script> 
+        console.log("eu","sou","linda")
+        console.log("eu sou linda")
+    </script>
+</body>
+</html>
