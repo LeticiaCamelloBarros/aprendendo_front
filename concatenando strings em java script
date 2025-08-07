@@ -1,6 +1,9 @@
 """você pode concatenar strings em java script usando o sinal de + """
 
-  """ ao você unir strings por virgula por padrão ela colocará um espaço entre cada sub string : 
+  """ você pode fazer algo parecido com virgula , strings ou variáveis  separadas por virgula(na
+função console.log() ) por padrão o uso da virgula  demandará  um espaço entre cada sub string ou variável . Isso não é concatenar (juntar variáveis substrings e 
+transforma-las em uma só ) isso é apenas printar diferentes strings ou variáveis uma do lado da outra , quando você faz isso você pode printar números e variáveis sem transformar os números em string
+, mas na concatenação você não pode fazer isso : """
 código : 
 <!DOCTYPE html>
 <html lang="en">
