@@ -1,0 +1,27 @@
+"""boas práticas java script : ) """
+
+"""magine you are a professional developer in a team of 15 developers. You are all working on one website. 
+What would happen if every developer started writing code with their own principles and in their own distinct way? Chaos, of course! 
+That's why it's important not just to write code, but to write clean code.
+Clean code is code that is easy to read and understand. Any developer should be able to look at your code, read it, understand it easily and be able to continue it.
+As a beginner don't stress too much about this, but it's better to start early. 
+During the course you will learn some principles that will help you make sure your code is always clean. Believe it or not, you can already learn some principles:"""
+
+
+""" imagine que você é um desenvolvedor profissionar num time de 15 desenvolvedores . Vocês todos estão trabalhando em um site . O que iria acontecer se cada um de vocês começasse
+a codar com os seus próprios principios e preferências ? Caos , claro !! . É por isso que é importante não só escrever o código , mas também escrever um código limpo . 
+Código limpo é um código que é fácil de ler e de escrever . Num código limpo , qualquer desenvolvedor deve ser capaz de olhar para o seu código , lê-lo , entendo-lo facilmente 
+e consiguir continia-lo . No começo não se estresse com isso , mas é melhor começar cedo . Durante o curso você irá irá aprender alguns principios que irão fazer o seu código limpo.
+Acredite ou não , você pode agora aprender alguns principios """
+
+"""In most programming languages, at the end of every line of code you have to put a semicolon ;
+. In JavaScript, it is not necessary to put a semicolon at the end of lines, but it is a good practice to put them. 
+Some developers choose not to. Whatever you choose, stick to one and don't mix the two."""
+
+"""Em maioria das linguagens de programação , ao final de cada linha de código você deve por um ponto e linha . Em java script , não é obrigatório coloca-lo no final da linha , 
+mas é uma boa prática faze-lo . Alguns desenvolvedores optam por não coloca-lo . O que quer que você escolha , se apegue com uma prática ( ou colocar ou não colocar ponto e linha
+ao final do código ) , não as misture !!!"""
+
+
+
+
